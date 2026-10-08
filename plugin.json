@@ -1,0 +1,9 @@
+{
+  "name": "cymbal-capstone",
+  "description": "Milestone-gated multi-agent orchestration suite and atomic skills for the Cymbal Bank Autonomous Regulatory Compliance & Dispute Resolution ADK Capstone.",
+  "suggestedPrompts": [
+    "Start Phase 1 (Milestones 1.0 to 1.4) and pause after each milestone so I can verify on my end",
+    "Run the next milestone in the Cymbal Bank DAG, execute its test, and wait for my verification",
+    "Verify the current milestone's test output and show me the status of /workspace/deployment_metadata.json"
+  ]
+}
